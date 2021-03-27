@@ -12,7 +12,10 @@
 <p align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phytoline&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phytoline)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phytoline)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phytoline&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href = "mailto: phytolinedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
