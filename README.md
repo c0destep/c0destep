@@ -23,7 +23,9 @@
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phytoline&show_icons=true&theme=dark&hide_border=true&locale=pt-br&bg_color=66000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phytoline&layout=compact&theme=dark&hide_border=true&locale=pt-br&bg_color=66000000)
-  
+ 
+ [![wakatime](https://wakatime.com/badge/user/3890a4a9-5b1c-46c2-8c1f-af0bea82ff34.svg)](https://wakatime.com/@3890a4a9-5b1c-46c2-8c1f-af0bea82ff34)
+ 
 <a href="mailto: phytolinedev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
