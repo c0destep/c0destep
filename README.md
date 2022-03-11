@@ -2,7 +2,6 @@
 
 ### Welcome to my github! Here I put my projects so that anyone can look, study, improve and etc.
 
-* I study cybersecurity
 * I am studying php and its most used frameworks
 * The languages I use most are: PHP
 
@@ -26,7 +25,7 @@
  
  [![wakatime](https://wakatime.com/badge/user/3890a4a9-5b1c-46c2-8c1f-af0bea82ff34.svg)](https://wakatime.com/@3890a4a9-5b1c-46c2-8c1f-af0bea82ff34)
  
-<a href="mailto: phytolinedev@gmail.com">
+<a href="mailto:codestep@codingstep.com.br">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/lucas-alves-b21985156/" target="_blank">
