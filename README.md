@@ -19,11 +19,8 @@
 </p>
 
 ---
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=c0destep&show_icons=true&theme=dark&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0destep&theme=dark&locale=pt-br)
- 
- [![wakatime](https://wakatime.com/badge/user/3890a4a9-5b1c-46c2-8c1f-af0bea82ff34.svg)](https://wakatime.com/@3890a4a9-5b1c-46c2-8c1f-af0bea82ff34)
+
+[![wakatime](https://wakatime.com/badge/user/3890a4a9-5b1c-46c2-8c1f-af0bea82ff34.svg)](https://wakatime.com/@3890a4a9-5b1c-46c2-8c1f-af0bea82ff34)
  
 <a href="mailto:codestep@codingstep.com.br">
   <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
