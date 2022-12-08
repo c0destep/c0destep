@@ -37,8 +37,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Developer PHP** \
 [**CodeInsight**](https://codebrasil.dev) • Contrato • 2021 - 2022 \
-Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL` \
-Projetos em destaque: [Fenabb](https://bolao.fenabb.org.br/)
+Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL`
 <br/>
 <br/>
 
