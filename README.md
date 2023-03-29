@@ -33,13 +33,20 @@
 ## 💻️ Experiências de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://codebrasil.dev/wp-content/uploads/2022/01/fav.png"/>](https://codebrasil.dev)
+[<img align="left" height="94px" width="94px" alt="Codebrasil" src="https://codebrasil.dev/wp-content/uploads/2022/01/fav.png"/>](https://codebrasil.dev)
 
 **Developer PHP** \
 [**CodeInsight**](https://codebrasil.dev) • Contrato • 2021 - 2022 \
-Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL`
+Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL`\
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="Marktclub" src="https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885-19/291585932_134306345681387_6119290488447215665_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb8-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2k4Fa7OGupMAX9cWnf6&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDa-0pIp1xGao0ND_l0azPDFybg4GLBXT4Lne1tPLZdtA&oe=64283081&_nc_sid=1527a3"/>](https://marktclub.com.br)
+
+**Developer PHP** \
+[**Marktclub**](https://marktclub.com.br) • Contrato • 2023 - Presente \
+Linguagens & Tecnologias: `PHP`, `JavaScript`, `Docker`, `MySQL`\
 <br/>
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/lucas-alves-b21985156/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
