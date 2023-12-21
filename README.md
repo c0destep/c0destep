@@ -40,7 +40,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="You Huul" src="https://youhuul.com.br/images/favicon.png"/>](https://youhuul.com.br)
+[<img align="left" height="60px" width="60px" alt="You Huul" src="https://youhuul.com.br/images/favicon.png"/>](https://youhuul.com.br)
 
 **Developer PHP** \
 [**You Huul**](https://youhuul.com.br) • Contrato • 2023 - Presente \
