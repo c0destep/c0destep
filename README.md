@@ -33,14 +33,14 @@
 ## 💻️ Experiências de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Codebrasil" src="https://codebrasil.dev/wp-content/uploads/2022/01/fav.png"/>](https://codebrasil.dev)
+[<img align="left" height="94px" width="94px" alt="Codebrasil" src="https://codebrasil.dev/wp-content/uploads/2023/10/zapog-1.png"/>](https://codebrasil.dev)
 
 **Developer PHP** \
 [**CodeInsight**](https://codebrasil.dev) • Contrato • 2021 - 2022 \
 Linguagens & Tecnologias: `PHP`, `JavaScript`, `MySQL`\
 <br/>
 
-[<img align="left" height="60px" width="60px" alt="You Huul" src="https://youhuul.com.br/images/favicon.png"/>](https://youhuul.com.br)
+[<img align="left" height="60px" width="60px" alt="You Huul" src="https://youhuul.com.br/wp-content/uploads/2024/10/YouHuul_favicon.png"/>](https://youhuul.com.br)
 
 **Developer PHP** \
 [**You Huul**](https://youhuul.com.br) • Contrato • 2023 - Presente \
