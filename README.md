@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou o Lucas Alves (Codestep)
+# Olá 👋, Eu sou o Lucas Alves (xCision)
 
 > Sou um desenvolvedor back-end apaixonado por programação, por aqui você encontrará alguns projetos onde busco aperfeiçoar sempre que possível.
 
