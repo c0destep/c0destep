@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou o Lucas Alves (xCision)
+# Olá 👋, Eu sou o Lucas Alves (Nate)
 
 > Sou um desenvolvedor back-end apaixonado por programação, por aqui você encontrará alguns projetos onde busco aperfeiçoar sempre que possível.
 
